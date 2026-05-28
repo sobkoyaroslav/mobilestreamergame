@@ -1,0 +1,15 @@
+{
+  "coins": 142.0,
+  "total_earned": 767.0,
+  "total_clicks": 389,
+  "upgrade_levels": {
+    "click": 1,
+    "multiplier": 1
+  },
+  "unlocked": [
+    "first_click",
+    "clicks_100",
+    "multi"
+  ],
+  "muted": true
+}
